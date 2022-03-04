@@ -16,17 +16,25 @@ O projeto é composto por 3 páginas, sendo elas:
 
 
 
-    I. Home
+```
+I. Home
+```
 
    ![Figure](https://github.com/Vinicius999/web-project-001-UNES/blob/main/screenshots/Home.jpeg)
 
-    II. Quem somos
+```
+II. Quem somos
+```
 
    ![Figure](https://github.com/Vinicius999/web-project-001-UNES/blob/main/screenshots/quem-somos.png)
 
-    III. Contato
+```
+III. Contato
+```
 
    ![Figure](https://github.com/Vinicius999/web-project-001-UNES/blob/main/screenshots/contato.png)
+
+
 
 Este é o primeiro projeto desenvolvido no decorrer do curso **Desenvolvimento Web Completo** do professor **Jamilton Damasceno**.
 
