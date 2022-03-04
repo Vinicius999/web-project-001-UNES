@@ -14,23 +14,19 @@ O projeto é composto por 3 páginas, sendo elas:
 - Quem somos
 - Contato
 
-Abaixo, segue a apresentação de cada uma delas.
-
-**Página 1** - Home do site
-
-![Home.jpeg](/home/vinicius-silva/Workspace/Web/Curso Jamilton Damasceno/Secao3-HTML 5/Projeto1-UNES/screenshots/Home.jpeg)
 
 
+    I. Home
 
-**Página 2** - Quem somos
+   ![Figure](https://github.com/Vinicius999/web-project-001-UNES/blob/main/screenshots/Home.jpeg)
 
-![](/home/vinicius-silva/Workspace/Web/Curso Jamilton Damasceno/Secao3-HTML 5/Projeto1-UNES/screenshots/quem-somos.png)
+    II. Quem somos
 
+   ![Figure](https://github.com/Vinicius999/web-project-001-UNES/blob/main/screenshots/quem-somos.png)
 
+    III. Contato
 
-**Página 3** - Contato
-
-![](/home/vinicius-silva/Workspace/Web/Curso Jamilton Damasceno/Secao3-HTML 5/Projeto1-UNES/screenshots/contato.png)
+   ![Figure](https://github.com/Vinicius999/web-project-001-UNES/blob/main/screenshots/contato.png)
 
 Este é o primeiro projeto desenvolvido no decorrer do curso **Desenvolvimento Web Completo** do professor **Jamilton Damasceno**.
 
