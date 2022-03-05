@@ -36,7 +36,7 @@ III. Contato
 
 
 
-Este é o primeiro projeto desenvolvido no decorrer do curso **Desenvolvimento Web Completo** do professor **Jamilton Damasceno**.
+Este é o primeiro projeto desenvolvido no decorrer do curso **[Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/)** do professor **Jamilton Damasceno**.
 
 
 
